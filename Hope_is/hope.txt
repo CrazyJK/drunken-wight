@@ -1,4 +1,5 @@
 AAA
+<<<<<<< Upstream, based on master
 CCC
 AAA
 DDD
@@ -9,3 +10,7 @@ AAA
 BBB
 AAA
 BBB
+=======
+DDD
+D2
+>>>>>>> 626189f forward DDD 2
