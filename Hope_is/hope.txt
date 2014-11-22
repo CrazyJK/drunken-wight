@@ -1,12 +1,5 @@
 hope is ...
-<<<<<<< Upstream, based on DDD
 DDD
 AAA
 BBB
 CCC
-=======
-
-
-
-CCC
->>>>>>> 7c798a1 C change
