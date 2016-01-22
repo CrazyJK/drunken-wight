@@ -1,11 +1,11 @@
 drunken-wight
 =============
-AAA
-BBB
-CCC
-DDDadd contents
+AAA  
+BBB  
+CCC  
+DDDadd contents  
 
-Blar blar blar~~~
+Blar blar blar
 
 ---
 ## 【산수】 A와 B는 합쳐서 1100원, A는 B보다 1000원 비싸다. 그러면 B의 가격은?
